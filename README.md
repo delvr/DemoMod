@@ -1,6 +1,5 @@
+# Demo Mod
 
-https://mcforge.readthedocs.io/en/latest/gettingstarted/
+A sample mod to demonstrate the basics of modding. See https://mcforge.readthedocs.io/en/latest/gettingstarted/ for help.
 
-resources/META-INF/demo_at.cfg is an Access Transformer
-
-Uncheck the Gradle option "create separate modules per source set"
+TODO: provide some instructions.

@@ -1,0 +1,7 @@
+/.gradle/
+/build/
+/libs/
+/out/
+/run/
+/src/main/resources/mcmod.info
+*.iml
